@@ -10,7 +10,7 @@ roda o Selenium na sua máquina e envia apenas o payload JSON abaixo.
 
 ```json
 {
-  "teamToken": "SEU-TOKEN",
+  "teamToken": "DARK-9CW7Z",
   "itens": [
     { "chave": "00000000000000000000000000000000000000000000", "valor": 1234.56 },
     { "chave": "1111...44 dígitos", "valor": "1.234,56" }
