@@ -1,5 +1,5 @@
 import requests
-from Desafio_SIEG.config import SUBMIT_URL, TEAM_TOKEN
+from config import SUBMIT_URL, TEAM_TOKEN
 
 def submeter_gabarito(notas: list[dict]):
     """

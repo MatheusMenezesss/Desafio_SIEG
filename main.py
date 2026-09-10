@@ -24,8 +24,7 @@ def criar_driver():
     return webdriver.Chrome(service=service, options=options)
 
 def main():
-    if config.TEAM_TOKEN == "DARK-9CW7Z":
-        return
+    
 
     driver = criar_driver()
     try:
