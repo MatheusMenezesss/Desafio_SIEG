@@ -1,0 +1,156 @@
+[
+  {
+    "numero": "132796/7",
+    "emitente": "Estrela Materiais de Construcao",
+    "emissao": "2025-12-20",
+    "status": "Autorizada",
+    "valor": "334,49",
+    "cnpj": "68228210703321",
+    "chave_acesso": "15297683190075304119411690138836015585599277",
+    "valor_total": "R$ 334,49",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/132796-7.pdf"
+  },
+  {
+    "numero": "57992/2",
+    "emitente": "Jangada Pescados",
+    "emissao": "2025-01-06",
+    "status": "Autorizada",
+    "valor": "32182,76",
+    "cnpj": "60684762954830",
+    "chave_acesso": "99746688610094552088211156282880397140047115",
+    "valor_total": "R$ 32182,76",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/57992-2.pdf"
+  },
+  {
+    "numero": "761863/3",
+    "emitente": "Lumen Eletronicos",
+    "emissao": "2025-06-06",
+    "status": "Denegada",
+    "valor": "43069,12",
+    "cnpj": "66472682593121",
+    "chave_acesso": "54739788127680384876916324223235563434151660",
+    "valor_total": "R$ 43069,12",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/761863-3.pdf"
+  },
+  {
+    "numero": "942515/2",
+    "emitente": "Estrela Materiais de Construcao",
+    "emissao": "2025-01-14",
+    "status": "Cancelada",
+    "valor": "10121,74",
+    "cnpj": "12742935699221",
+    "chave_acesso": "71739687400637487677131167736638735051669966",
+    "valor_total": "R$ 10121,74",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/942515-2.pdf"
+  },
+  {
+    "numero": "27748/4",
+    "emitente": "Horizonte Moveis",
+    "emissao": "2025-02-25",
+    "status": "Denegada",
+    "valor": "12947,44",
+    "cnpj": "23184991215166",
+    "chave_acesso": "50325031392597672640973165683276674159889390",
+    "valor_total": "R$ 12947,44",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/27748-4.pdf"
+  },
+  {
+    "numero": "592440/2",
+    "emitente": "Estrela Materiais de Construcao",
+    "emissao": "2025-06-27",
+    "status": "Denegada",
+    "valor": "7164,90",
+    "cnpj": "33600546648114",
+    "chave_acesso": "26344777846239290178214142052360852285446720",
+    "valor_total": "R$ 7164,90",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/592440-2.pdf"
+  },
+  {
+    "numero": "80977/3",
+    "emitente": "Delta Logistica Integrada",
+    "emissao": "2025-04-12",
+    "status": "Autorizada",
+    "valor": "43694,78",
+    "cnpj": "22836462234997",
+    "chave_acesso": "01640468638707826830256982829335185826027040",
+    "valor_total": "R$ 43694,78",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/80977-3.pdf"
+  },
+  {
+    "numero": "47897/9",
+    "emitente": "Jangada Pescados",
+    "emissao": "2025-10-09",
+    "status": "Denegada",
+    "valor": "10725,36",
+    "cnpj": "20709876572389",
+    "chave_acesso": "02870813267775761007293288221179066896678398",
+    "valor_total": "R$ 10725,36",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/47897-9.pdf"
+  },
+  {
+    "numero": "132796/7",
+    "emitente": "Estrela Materiais de Construcao",
+    "emissao": "2025-12-20",
+    "status": "Autorizada",
+    "valor": "334,49",
+    "cnpj": "68228210703321",
+    "chave_acesso": "15297683190075304119411690138836015585599277",
+    "valor_total": "R$ 334,49",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/132796-7.pdf"
+  },
+  {
+    "numero": "57992/2",
+    "emitente": "Jangada Pescados",
+    "emissao": "2025-01-06",
+    "status": "Autorizada",
+    "valor": "32182,76",
+    "cnpj": "60684762954830",
+    "chave_acesso": "99746688610094552088211156282880397140047115",
+    "valor_total": "R$ 32182,76",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/57992-2.pdf"
+  },
+  {
+    "numero": "761863/3",
+    "emitente": "Lumen Eletronicos",
+    "emissao": "2025-06-06",
+    "status": "Denegada",
+    "valor": "43069,12",
+    "cnpj": "66472682593121",
+    "chave_acesso": "54739788127680384876916324223235563434151660",
+    "valor_total": "R$ 43069,12",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/761863-3.pdf"
+  },
+  {
+    "numero": "942515/2",
+    "emitente": "Estrela Materiais de Construcao",
+    "emissao": "2025-01-14",
+    "status": "Cancelada",
+    "valor": "10121,74",
+    "cnpj": "12742935699221",
+    "chave_acesso": "71739687400637487677131167736638735051669966",
+    "valor_total": "R$ 10121,74",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/942515-2.pdf"
+  },
+  {
+    "numero": "27748/4",
+    "emitente": "Horizonte Moveis",
+    "emissao": "2025-02-25",
+    "status": "Denegada",
+    "valor": "12947,44",
+    "cnpj": "23184991215166",
+    "chave_acesso": "50325031392597672640973165683276674159889390",
+    "valor_total": "R$ 12947,44",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/27748-4.pdf"
+  },
+  {
+    "numero": "592440/2",
+    "emitente": "Estrela Materiais de Construcao",
+    "emissao": "2025-06-27",
+    "status": "Denegada",
+    "valor": "7164,90",
+    "cnpj": "33600546648114",
+    "chave_acesso": "26344777846239290178214142052360852285446720",
+    "valor_total": "R$ 7164,90",
+    "pdf": "/Users/live/Documents/Hacka_Sieg/Desafio_SIEG/data/downloads/592440-2.pdf"
+  }
+]
